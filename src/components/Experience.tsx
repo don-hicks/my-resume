@@ -4,15 +4,27 @@ import { Calendar, MapPin } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: 'Cofounder & Product Lead',
-      company: 'Hyxos',
+      title: 'Solutions Developer',
+      company: 'SoloSquid Inc.',
+      location: 'Toronto, ON',
+      period: '2025 - Present',
+      description: 'Design and deliver customer-facing solutions for enterprise clients, from requirements through architecture through deployment.',
+      achievements: [
+        'Solution architecture and development in C# and Go; Microsoft Power Platform (PowerApps, PowerAutomate, SharePoint) integration',
+        'AI-assisted delivery in production: architecture patterns (single source of truth, derived views) that keep agent-assisted codebases coherent over time',
+        'Client-facing engagement lead: discovery, solution design, and delivery across concurrent projects'
+      ]
+    },
+    {
+      title: 'Co-founder & Product Lead',
+      company: 'Hyxos Inc.',
       location: 'Toronto, ON',
       period: '2013 - Present',
-      description: 'Bootstrapped and developed custom tooling for a board games company',
+      description: 'Independent research and product company. Originator of a geometric numeral system with a rational-addressing foundation, an installable dynamic typeface, and associated card games.',
       achievements: [
-        'Built asset generation software using modern web stacks',
-        'Balanced software development, product design and business goals',
-        'Created unique branding foundation, developed marketing materials and media'
+        'Published a defensive publication: Rational Addressing and Geometric Memory',
+        'Designed and shipped a deterministic composite TrueType typeface (60 numerals from 17 outlines, about 12KB)',
+        'Built the supporting toolchain in Rust: exact algebraic computation, rendering, font emission, with no floating point in the source of truth'
       ]
     },
     {
@@ -46,7 +58,7 @@ const Experience = () => {
       period: '2016 - 2017',
       description: 'Developed a custom subscription and e-commerce system using Ruby on Rails and Custom JavaScript.',
       achievements: [
-        'Developed customized API for data collection and semgentations for targeted marketing campaigns',
+        'Developed customized API for data collection and segmentations for targeted marketing campaigns',
         'Expanded administrative features of internal dashboards',
         'Provided technical documentation and comprehensive testing coverage'
       ]
@@ -71,7 +83,7 @@ const Experience = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">Professional Experience</h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            My journey from emergency services to full stack development and entrepreneurship
+            Twenty years of high-stakes systems: emergency dispatch, software, and an independent product company
           </p>
         </div>
 
