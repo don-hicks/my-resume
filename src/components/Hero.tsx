@@ -18,7 +18,7 @@ const Hero = () => {
             Hi, I'm <span className="text-blue-600 dark:text-yellow-400">Don Hicks</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-            A seasoned Full Stack Developer with over a decade of experience building scalable web applications and mentoring development teams
+            Solutions Architect &amp; Systems Developer. Exact computation, AI-assisted delivery, self-hosted infrastructure.
           </p>
           
           <div className="flex justify-center space-x-6 mb-12">
@@ -39,7 +39,7 @@ const Hero = () => {
               <Linkedin size={24} className="text-blue-600 dark:text-yellow-400" />
             </a>
             <a 
-              href="mailto:don.hicks.dev@gmail.com"
+              href="mailto:donnie@hyxos.io"
               className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110"
             >
               <Mail size={24} className="text-green-600 dark:text-yellow-400" />

@@ -4,18 +4,18 @@
 
 ## About Me
 
-Versatile full stack developer with over a decade of experience building, maintaining, and scaling web applications.
+Solutions architect and systems developer in Toronto.
 
-I specialize in both frontend and backend development with a strong foundation in JavaScript, React, Node.js, and PostgreSQL. My passion lies in solving real-world problems with practical solutions and delivering reliable, human-centered software products.
+I've spent twenty years in systems where being wrong is expensive: a decade dispatching emergency responses for the City of Toronto, then a decade building software. Today I design and deliver solutions for enterprise clients: architecture, integration, and AI-assisted development in C#, Go, and the Microsoft Power Platform.
 
-With experience ranging from high-stakes emergency dispatch to teaching the next generation of developers, I bring a unique perspective to software development that values clear communication, mentorship, and thoughtful design.
+The through-line is the same in every domain: establish a single source of truth, derive everything else from it, and know exactly where the representation stops being reliable. I build in Rust, Lua, and TypeScript on my own time, hold a defensive publication in rational addressing and geometric memory, and have run an independent product company since 2013.
 
 ### Quick Facts
 
-- **10+ years** of development experience  
-- **Former Mentor** at Lighthouse Labs  
+- **20 years** in high-stakes systems  
+- **Solutions Developer** at SoloSquid Inc.  
+- **Co-founder & Product Lead** at Hyxos Inc. since 2013  
 - **Based in** Toronto, Ontario  
-- **Co-founder & Product Lead** at Hyxos
 
 ## Tech Stack
 
@@ -81,4 +81,5 @@ MIT
 
 - GitHub: [don-hicks](https://github.com/don-hicks)  
 - LinkedIn: [Don Hicks](https://www.linkedin.com/in/don-hicks)  
+- Email: [donnie@hyxos.io](mailto:donnie@hyxos.io)  
 - Portfolio: [don.hyxos.io](https://don.hyxos.io)

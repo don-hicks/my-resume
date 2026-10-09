@@ -27,7 +27,7 @@ const Footer = () => {
               <Linkedin size={20} className="dark:text-yellow-400" />
             </a>
             <a 
-              href="mailto:don.hicks.dev@gmail.com"
+              href="mailto:donnie@hyxos.io"
               className="p-3 bg-gray-800 dark:bg-gray-800 rounded-full hover:bg-gray-700 dark:hover:bg-yellow-400/20 transition-colors duration-200"
             >
               <Mail size={20} className="dark:text-yellow-400" />
